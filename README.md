@@ -1,1 +1,1 @@
-# tp6-metoGon
+Para ejecutar hacer: cd servidor - npm install - npm run start
